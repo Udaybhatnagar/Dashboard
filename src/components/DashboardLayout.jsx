@@ -14,6 +14,7 @@ const DashboardLayout = ({ title, children }) => {
           base: "none",
           lg: "flex",
         }}
+        dfafdfdfdfff
       >
         <Sidenav />
       </Box>
