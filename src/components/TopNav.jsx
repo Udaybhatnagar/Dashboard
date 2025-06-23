@@ -22,7 +22,7 @@ const TopNav = ({ title, onOpen }) => {
           display={{
             base: "block",
             lg: "none",
-            afdafdflfjdafofafdmfl;dmfl;a
+            
           }}
         />
         <Heading fontWeight="medium" fontSize="28px">
