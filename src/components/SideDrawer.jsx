@@ -20,7 +20,7 @@ const SideDrawer = ({ isOpen, onClose }) => {
         </DrawerContent>
       </Drawer>
     </>
-    jflkamkamdiofjaofnlfmoafn
+    
   );
 };
 
