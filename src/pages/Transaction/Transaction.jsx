@@ -19,7 +19,7 @@ const TransactionPage = () => {
     {
       name: "All",
       count: 349,
-    }, uday 
+    },  
     { 
       name: "Deposit",
       count: 114,
